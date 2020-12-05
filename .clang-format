@@ -1,10 +1,2 @@
-BasedOnStyle: Google
+import graphlab
 
-BreakConstructorInitializers: BeforeComma
-BraceWrapping:
-  AfterFunction: true
-BreakBeforeBraces: Custom
-ColumnLimit: 100
-ConstructorInitializerAllOnOneLineOrOnePerLine: false
-ConstructorInitializerIndentWidth: 2
-IncludeBlocks: Preserve
